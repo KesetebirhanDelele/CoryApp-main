@@ -765,7 +765,7 @@ export default function OrganizationSettingsPage() {
               <div className="space-y-2 text-sm text-gray-600">
                 <p><strong>Authentication:</strong> Include API key in Authorization header: <code>Bearer YOUR_API_KEY</code></p>
                 <p><strong>Content-Type:</strong> <code>application/json</code></p>
-                <p><strong>Response Time:</strong> <3 seconds for lead processing and campaign trigger</p>
+                <p><strong>Response Time:</strong> &lt;3 seconds for lead processing and campaign trigger</p>
                 <p><strong>Success Response:</strong> <code>{"{"}"status": "received", "lead_id": "uuid"{"}"}</code></p>
               </div>
             </CardContent>
