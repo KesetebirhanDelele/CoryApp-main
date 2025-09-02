@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Code analysis reports
+PRODUCTION_READINESS_REPORT.md
